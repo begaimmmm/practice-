@@ -14,6 +14,11 @@ import java.util.ArrayList;
 
                 books1.addAll(books2);
 
+
+
+
+                //
+                 //
                 // убираем дубликаты
                 ArrayList<String> uniqueBooks = new ArrayList<>();
                 for (String book : books1) {
