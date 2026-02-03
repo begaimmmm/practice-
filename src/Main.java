@@ -8,7 +8,6 @@ import java.util.ArrayList;
                 ArrayList<String> books1 = new ArrayList<>();
                 books1.add("Java");
                 books1.add("Python");
-
                 ArrayList<String> books2 = new ArrayList<>();
                 books2.add("Java");
                 books2.add("C++");
